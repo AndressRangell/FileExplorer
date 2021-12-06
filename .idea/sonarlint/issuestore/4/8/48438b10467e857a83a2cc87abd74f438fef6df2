@@ -1,0 +1,17 @@
+
+Ekotlin:S108M")Either remove or fill this block of code.(ÍÖ¥ºÿÿÿÿÿ
+Ekotlin:S108Q")Either remove or fill this block of code.(ÍÖ¥ºÿÿÿÿÿ
+rkotlin:S100g"VRename function "Crea_Carpetas" to match the regular expression ^[a-zA-Z][a-zA-Z0-9]*$(‹±åûùÿÿÿÿ
+@kotlin:S1874"#Deprecated code should not be used.(¼šˆÇıÿÿÿÿ
+@kotlin:S1874*"#Deprecated code should not be used.(ºÀ¥ëùÿÿÿÿ
+;kotlin:S1874\"#Deprecated code should not be used.(¯Ìœ²
+@kotlin:S1874"#Deprecated code should not be used.(øÚˆŸùÿÿÿÿ
+@kotlin:S1874"#Deprecated code should not be used.(¼šˆÇıÿÿÿÿ
+jkotlin:S117""NRename this parameter to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(İ©°ãûÿÿÿÿ
+jkotlin:S117#"NRename this parameter to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(Â˜ÚÄşÿÿÿÿ
+jkotlin:S117$"NRename this parameter to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(¿êÍÄøÿÿÿÿ
+okotlin:S1174"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(ÛšòÉúÿÿÿÿ
+jkotlin:S1175"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(³ÎÇŒ
+okotlin:S1176"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(½ğå›ûÿÿÿÿ
+jkotlin:S117r"NRename this parameter to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(’‹å«ÿÿÿÿÿ
+rkotlin:S1186&"ZAdd a nested comment explaining why this function is empty or complete the implementation.(­ïã
